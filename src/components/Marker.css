@@ -1,0 +1,19 @@
+
+  .containerModal  {
+    position: relative;
+    background: white;
+    width: 30%;
+    height: 40%;
+    top:85%;
+    left:80%;
+    transform: translate(-35%,-35%);
+    text-align: center
+  }
+  
+  .display-block {
+    display: block;
+  }
+  
+  .display-none {
+    display: none;
+  }
